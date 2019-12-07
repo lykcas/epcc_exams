@@ -15,18 +15,18 @@ Use credit please.
 
 (c)
 
-35.15625≈36 cycles
+70.3125≈71 cycles
 
 ## 3
 
 (b)
 
--   mesh: degree = 6, MBW = $l^2$
--   torus: degree = 6, MBW = $3l^2$
+-   mesh: degree = 6, MBW = l^2
+-   torus: degree = 6, MBW = 2l^2
 
 (c)
 
-$3l^2\times 0.9g = 2.7gl^2$
+2l^2 ∙ 0.9g = 1.8gl^2
 
 # 2017
 # 2016
