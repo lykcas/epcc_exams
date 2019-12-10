@@ -1,3 +1,1 @@
 不考历史
-
-不考特定的processors， 比如NVIDIA和Xeon Phi。会拿这种特定的processors当作例子，但题目是问general architecture的。
